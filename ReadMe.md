@@ -4,7 +4,7 @@
 
 implementation of some numerical computing methods formulas with Python and some of its libraries. <br />
 
-Attenrion: 
+Attention: 
 - The chapters are considered based on these two references:
   - Numerical Analisys (9th or 10th version by Burden & Faires)
 
